@@ -2,7 +2,7 @@
 
 Basketball shooting trainer. Players tap Make or Miss, and the shooting percentage stays hidden until they finish. Mobile-first installable web app with no build step and no dependencies.
 
-Live preview: https://in-the-zone-trainer.vercel.app (on-device preview backend; accounts and workouts stay in the browser that created them).
+Live preview: https://no-look.vercel.app (on-device preview backend; accounts and workouts stay in the browser that created them).
 
 The product name is not final. It lives in three places: `js/brand.js`, `manifest.webmanifest`, and the `<title>` in `index.html`.
 
